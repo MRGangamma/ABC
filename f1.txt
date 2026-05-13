@@ -1,3 +1,7 @@
 hllo bbg!!changes from main
 cnamges from branch
+<<<<<<< HEAD
 eeee
+=======
+adgv
+>>>>>>> b2
